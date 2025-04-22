@@ -39,7 +39,7 @@ python example.py
 
 
 ## Publishing to PyPI
-Before getting started, make sure you have a PyPI account and an API token, and make sure to set a unique name for your package.
+We encourage publishing generalized plugins to PyPI so that they're easy for other Dash developers to use. See the [Python Packaging User Guide](https://packaging.python.org/en/latest/tutorials/packaging-projects/#uploading-the-distribution-archives) for detailed documentation on uploading the generated wheel and source distributions. Before getting started, make sure you have a PyPI account and an API token, and make sure to set a unique name for your package.
 
 1. **Prepare the package**:
    ```bash
